@@ -1,4 +1,4 @@
-# research_articles
+# Articles Repository
 This repository archives the articles in which I appear as author/co-author. The papers are in their distributable form (e.g. author accepted manuscript version, etc).
 
 My research interests lie at the intersection between the internationalization process of the firm, the behavioural theory of the firm, and the behaviour inside organisations in relation to boundedly rational decision making. Below you can find my ORCID iD, National Research Council (CONCyTEC, Peru), Researchgate, and LinkedIn profiles.
